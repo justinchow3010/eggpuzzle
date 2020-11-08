@@ -1,0 +1,2 @@
+C:\Users\Chow\Desktop\CUHK\YEAR 3\C++\eightpuzzle\eggpuzzle\Debug\eggpuzzle.exe
+C:\Users\Chow\Desktop\CUHK\YEAR 3\C++\eightpuzzle\eggpuzzle\Debug\eggpuzzle.pdb
