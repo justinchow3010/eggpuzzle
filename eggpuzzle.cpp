@@ -1,5 +1,3 @@
-// Name: chow him chak  sid: 1155125328    email:1155125328@link.cuhk.edu.hk
-//
 
 #include <iostream>
 using namespace std;
