@@ -1,4 +1,4 @@
-# eggpuzzle
+# eightpuzzle
 This is a eightpuzzle game written in C++ with player mode.
 
 The objective of this game is to arrange the number ascending by moving the dots around.<br />
